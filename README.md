@@ -1,9 +1,8 @@
-# C-Programming-Basics
-Basic C programming programs and simple practice codes for beginners.
+# C Programming Basics
 
 This repository contains basic C programs and simple practice codes for beginners who are starting to learn C programming.
 
-The programs cover different concepts of C and are added as I learn and practice them.
+The programs are written to practice different concepts and improve understanding of the C language through simple examples and problem-solving.
 
 ## Topics Covered
 
@@ -12,11 +11,13 @@ The programs cover different concepts of C and are added as I learn and practice
 * Arithmetic operators
 * Increment and decrement operators
 * Conditional statements
-* Basic calculations
+* Mathematical calculations
 * Type conversion
+* Basic problem solving
+* Geometry and algebra applications
 * Other beginner-level C concepts
 
-More programs and concepts will be added as I continue learning C.
+More programs and concepts will be added as I continue learning and practicing C.
 
 ## How to Run
 
@@ -33,7 +34,7 @@ On Windows, you can also use an IDE such as Code::Blocks, Dev-C++, or Visual Stu
 
 ## Purpose
 
-The main purpose of this repository is to keep my C programming practice in one place and provide simple examples that can help absolute beginners understand the basics.
+The main purpose of this repository is to keep my C programming practice in one place and provide simple examples that can help beginners understand the basics of C.
 
 ## Note
 
