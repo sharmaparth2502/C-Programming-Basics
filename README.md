@@ -16,6 +16,8 @@ The programs are written to practice different concepts and improve understandin
 * Basic problem solving
 * Geometry and algebra applications
 * Other beginner-level C concepts
+* Loops
+* Logical operators
 
 More programs and concepts will be added as I continue learning and practicing C.
 
