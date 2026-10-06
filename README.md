@@ -6,18 +6,19 @@ The programs are written to practice different concepts and improve understandin
 
 ## Topics Covered
 
-* Variables and data types
-* Input and output
-* Arithmetic operators
-* Increment and decrement operators
-* Conditional statements
-* Mathematical calculations
-* Type conversion
-* Basic problem solving
-* Geometry and algebra applications
-* Other beginner-level C concepts
-* Loops
-* Logical operators
+- Variables and data types
+- Input and output
+- Arithmetic operators
+- Increment and decrement operators
+- Conditional statements
+- Loops
+- Logical operators
+- Mathematical calculations
+- Number and digit operations
+- Type conversion
+- Basic problem solving
+- Geometry and algebra applications
+- Other beginner-level C concepts
 
 More programs and concepts will be added as I continue learning and practicing C.
 
